@@ -20,5 +20,6 @@
     // SublimeText, i.e. not just appended to the post window
     // If you are using this string in your code (for some reason) and are
     // getting conflicts, change it to something else
-    "stdout_flag": "***___SUBLIME___***"
+    "stdout_flag": "***___SUBLIME___***",
+    "tab_size": 2
 }
